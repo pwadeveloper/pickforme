@@ -1,0 +1,11 @@
+/*==================================================================================
+    Custom Stylesheet (Any custom styling you want to apply should be defined here).
+====================================================================================*/
+.order{
+    color: #5b39c9;
+}
+
+.btncolor{
+    background-color: #663bf3;
+    color:white
+}
